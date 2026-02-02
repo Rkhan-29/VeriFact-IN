@@ -1,5 +1,10 @@
 # VeriFact-IN
 Exposing the truth: An AI system to detect fake news and identify AI-written sentences
+
+**🌐 LIVE DEMO:**
+[Verifact-IN link]:
+https://verifact-in.streamlit.app/
+
 ​🛡️ VeriFact-IN: AI-Powered Fact Checker
 ​VeriFact-IN ek advanced NLP tool hai jo news ki authenticity verify karne aur AI-generated text ko detect karne ke liye banaya gaya hai. Yeh tool Hindi aur English dono languages ko support karta hai.
 
